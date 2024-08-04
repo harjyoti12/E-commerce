@@ -19,7 +19,7 @@ An awesome E-commerce project!
 
  ## About The Project
 
-![Product Screenshot]("/project-img/Untitled - Google Chrome 04-08-2024 17_33_00 (2).png")
+<img src="/project-img/Untitled - Google Chrome 04-08-2024 17_33_00 (2).png" alt="Random Image" width="400px">
 
 This project is a modern e-commerce site built using a suite of powerful technologies, designed to provide a seamless shopping experience. Leveraging React.js for a dynamic user interface, Commerce.js for a robust backend, Tailwind CSS for beautiful styling, React Hook Form for efficient form handling, Firebase Authentication for secure user management, and Stripe for smooth payment processing, this site offers comprehensive e-commerce functionalities.
  
@@ -27,8 +27,19 @@ This project is a modern e-commerce site built using a suite of powerful technol
 
 <p align="center">
 
-<img src="https://source.unsplash.com/random" alt="Random Image" width="400px">
-<img src="https://source.unsplash.com/random" alt="Random Image" width="400px">
+<img src="/project-img/Untitled - Google Chrome 04-08-2024 17_33_00 (2).png" alt="Random Image" width="400px">
+<img src="/project-img/Kalita Store - Google Chrome 04-08-2024 17_35_41.png" alt="Random Image" width="400px">
+<img src="/project-img/Kalita Store - Google Chrome 04-08-2024 17_35_50.png" alt="Random Image" width="400px">
+<img src="/project-img/Kalita Store - Google Chrome 04-08-2024 17_36_01.png" alt="Random Image" width="400px">
+<img src="/project-img/Kalita Store - Google Chrome 04-08-2024 17_36_38.png" alt="Random Image" width="400px">
+<img src="/project-img/Kalita Store - Google Chrome 04-08-2024 17_36_15.png" alt="Random Image" width="400px">
+<img src="/project-img/Kalita Store - Google Chrome 04-08-2024 17_36_28.png" alt="Random Image" width="400px">
+<img src="/project-img/Kalita Store - Google Chrome 04-08-2024 17_36_55.png" alt="Random Image" width="400px">
+<img src="/project-img/Kalita Store - Google Chrome 04-08-2024 17_36_55.png" alt="Random Image" width="400px">
+<img src="/project-img/Kalita Store - Google Chrome 04-08-2024 17_37_09.png" alt="Random Image" width="400px">
+<img src="/project-img/Kalita Store - Google Chrome 04-08-2024 17_37_17.png" alt="Random Image" width="400px">
+<img src="/project-img/Kalita Store - Google Chrome 04-08-2024 17_37_52.png" alt="Random Image" width="400px">
+<img src="/project-img/Kalita Store - Google Chrome 04-08-2024 17_38_22.png" alt="Random Image" width="400px">
 </p>
  
 <h2 id="technologies">💻 Technologies</h2>
