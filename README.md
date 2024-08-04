@@ -3,7 +3,7 @@
 <br/>
 <div align="center">
 <a href="https://github.com/ShaanCoding/ReadME-Generator">
-<img src="/project-img/commerce.png" alt="Logo" width="80" height="80">
+<img src="/src/assets/commerce.png" alt="Logo" width="80" height="80">
 </a>
 <h3 align="center">E-commerce Site</h3>
 <p align="center">
