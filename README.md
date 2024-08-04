@@ -66,7 +66,7 @@ Here you list all prerequisites necessary for running your project. For example:
 
 1. Clone the repository:
 ```bash
-git clone  https://github.com/yourusername/ecommerce-site.git
+git clone  https://github.com/harjyoti12/ecommerce-site.git
 
 cd ecommerce-site
 ```
@@ -86,7 +86,7 @@ Obtain Stripe API keys from the Stripe Dashboard.
 
 
  
-<h3>Cloning</h3>
+<h3>🛠️ Cloning</h3>
 
  To get started with the project, you'll first need to clone the repository to your local machine. Here's how you can do it:
 
@@ -94,7 +94,7 @@ Obtain Stripe API keys from the Stripe Dashboard.
 
 2.Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ecommerce-site.git
+git clone https://github.com/harjyoti12/ecommerce-site.git
 
 ```
 3.Navigate into the project directory:
@@ -109,7 +109,7 @@ cd ecommerce-site
 - [ ] Order Tracking:
 - [ ] International Delivery:
 
-See the [open issues](https://github.com/ShaanCoding/ReadME-Generator/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/harjyoti12/E-commerce/issues) for a full list of proposed features (and known issues).
  
 <h2 id="contribute">📫 Contribute</h2>
 
@@ -122,7 +122,7 @@ Click the "Fork" button on the top right corner of the repository page on GitHub
 2. Clone Your Fork:
 
 ```bash
-git clone https://github.com/yourusername/ecommerce-site.git
+git clone https://github.com/harjyoti12/ecommerce-site.git
 
 cd ecommerce-site
 ```
@@ -169,19 +169,10 @@ git push origin feature/your-feature-name
 <tr>
 
 <td align="center">
-<a href="https://github.com/Fernanda-Kipper">
-<img src="https://avatars.githubusercontent.com/u/61896274?v=4" width="100px;" alt="Fernanda Kipper Profile Picture"/><br>
+<a href="https://github.com/harjyoti12">
+<img src="/project-img/157897673.jfif" width="100px;" alt="Harjyoti  Profile Picture"/><br>
 <sub>
 <b>Fernanda Kipper</b>
-</sub>
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/ShaanCoding">
-<img src="https://avatars.githubusercontent.com/u/22236218?v=4" width="100px;" alt="Shaan Khan Profile Picture"/><br>
-<sub>
-<b>Shaan Khan</b>
 </sub>
 </a>
 </td>
