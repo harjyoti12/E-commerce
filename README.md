@@ -2,7 +2,7 @@
  
 <br/>
 <div align="center">
-<a href="https://github.com/ShaanCoding/ReadME-Generator">
+<a href="https://github.com/harjyoti12/E-commerce">
 <img src="/src/assets/commerce.png" alt="Logo" width="80" height="80">
 </a>
 <h3 align="center">E-commerce Site</h3>
@@ -11,15 +11,15 @@ An awesome E-commerce project!
 
 <br/>
 <br/>
-<a href="https://github.com/ShaanCoding/ReadME-Generator/">View Demo .</a>  
-<a href="https://github.com/ShaanCoding/ReadME-Generator/issues/new?labels=bug&template=bug-report---.md">Report Bug .</a>
-<a href="https://github.com/ShaanCoding/ReadME-Generator/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+<a href="https://kalitastore.netlify.app/">View Demo .</a>  
+<a href="https://github.com/harjyoti12/E-commerce/issues">Report Bug .</a>
+<a href="https://github.com/harjyoti12/E-commerce/issues">Request Feature</a>
 </p>
 </div>
 
  ## About The Project
 
-![Product Screenshot](https://source.unsplash.com/random/1920x1080)
+![Product Screenshot]("/project-img/Untitled - Google Chrome 04-08-2024 17_33_00 (2).png")
 
 This project is a modern e-commerce site built using a suite of powerful technologies, designed to provide a seamless shopping experience. Leveraging React.js for a dynamic user interface, Commerce.js for a robust backend, Tailwind CSS for beautiful styling, React Hook Form for efficient form handling, Firebase Authentication for secure user management, and Stripe for smooth payment processing, this site offers comprehensive e-commerce functionalities.
  
