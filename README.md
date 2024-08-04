@@ -22,7 +22,13 @@ An awesome E-commerce project!
 <img src="/project-img/Untitled - Google Chrome 04-08-2024 17_33_00 (2).png" alt="Random Image" width="400px">
 
 This project is a modern e-commerce site built using a suite of powerful technologies, designed to provide a seamless shopping experience. Leveraging React.js for a dynamic user interface, Commerce.js for a robust backend, Tailwind CSS for beautiful styling, React Hook Form for efficient form handling, Firebase Authentication for secure user management, and Stripe for smooth payment processing, this site offers comprehensive e-commerce functionalities.
- 
+
+The site is fully responsive, ensuring a seamless shopping experience across all devices, from mobile phones to desktops. Users can browse products by category, view detailed product information, and manage their cart with ease. Secure user authentication is implemented using Firebase, ensuring that only logged-in users can access certain features, such as viewing the cart and proceeding to checkout.
+
+The checkout process is streamlined with an address form and integrated Stripe payments, supporting both card and Google Pay options. Performance is optimized with debounce effects on frequent actions, and pagination features display 8 products at a time with a "Load More" button to fetch additional products.
+
+Additionally, the site utilizes Swiper.js for responsive image sliders, enhancing the visual appeal of product pages. The project is designed with scalability in mind, allowing for easy future enhancements such as advanced product filtering, additional payment options, social logins, order tracking, and international delivery. These features ensure that the site not only meets current user needs but is also prepared for future growth and improvements.
+
 <h2 id="layout">🎨 Layout</h2>
 
 <p align="center">
@@ -172,7 +178,7 @@ git push origin feature/your-feature-name
 <a href="https://github.com/harjyoti12">
 <img src="/project-img/157897673.jfif" width="100px;" alt="Harjyoti  Profile Picture"/><br>
 <sub>
-<b>Fernanda Kipper</b>
+<b>Harjyoti Kalita</b>
 </sub>
 </a>
 </td>
