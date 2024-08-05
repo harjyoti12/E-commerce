@@ -164,9 +164,6 @@ git push origin feature/your-feature-name
 - Go to the original repository on GitHub and click "New Pull Request."
 - Select your branch and provide a detailed description of the changes you made.
 - Submit the pull request for review.
- ## Contact
-
-- **harjyoti** [https://www.buymeacoffee.com/horoji86v]() - We appreciate the dedication and efforts of the authors in making the Instagram-clone project a reality. If you contribute to this project, harjyoti kalita and contributions will be added to this list.
  
 <h2 id="colab">🤝 Collaborators</h2>
 
